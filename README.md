@@ -1,2 +1,2 @@
 # ZeroKnowledgeProofPaillier
-Zero Knowledge Proof of Encryption of Zero.
+This code provides Zero Knowledge Proof for Encryption of Zero (Paillier Encryption).
